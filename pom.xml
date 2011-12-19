@@ -11,7 +11,10 @@
     <build>
         <resources>
             <resource>
-                <directory>src/main/resources/mainClass</directory>
+                <directory>src/main/resources/</directory>
+                <includes>
+                    <include>mainClass</include>
+                </includes>
             </resource>
         </resources>
     </build>
