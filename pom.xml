@@ -8,5 +8,12 @@
     <artifactId>Crumb</artifactId>
     <version>1.0</version>
 
-    
+    <build>
+        <resources>
+            <resource>
+                <directory>src/main/resources/mainClass</directory>
+            </resource>
+        </resources>
+    </build>
+
 </project>
