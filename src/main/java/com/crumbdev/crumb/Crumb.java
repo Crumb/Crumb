@@ -11,6 +11,7 @@ public class Crumb {
 
     public static void main(String[] args)
     {
+        i18n.i18nInit();
     	int dt = 1; //Debug toggle. 1 for on, 0 for off.
         Debug.msg("Crumb, version 0.1 starting up",dt);
         System.out.print("What is your name? ");
