@@ -5,11 +5,11 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * Created by IntelliJ IDEA.
- * User: chris
+ * Created by: Chris G. Ward
+ * Project: Crumb
  * Date: 14/02/12
  * Time: 6:49 PM
- * To change this template use File | Settings | File Templates.
+ * This file is Licensed under Creative Commons 3.0
  */
 public class Logger {
     private static FileWriter writer;
