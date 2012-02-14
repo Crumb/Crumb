@@ -9,7 +9,7 @@ import java.util.Date;
  * Project: Crumb
  * Date: 14/02/12
  * Time: 6:49 PM
- * This file is Licensed under Creative Commons 3.0
+ * This file is licensed under Creative Commons BY-NC-SA 3.0
  */
 public class Logger {
     private static FileWriter writer;
