@@ -1,19 +1,17 @@
 package com.crumbdev.crumb;
 
-import java.util.logging.Logger;
-
 /**
- * Created by IntelliJ IDEA.
- * User: chris
- * Date: 17/12/11
- * Time: 12:24 PM
- * To change this template use File | Settings | File Templates.
+ * Everyone loves a standard Javadoc. Will fix this up later.
  */
+
+import com.thenetdev.Commons.Debug;
+
 public class Crumb {
 
     public static void main(String[] args)
     {
-        System.out.println("Crumb, version 0.1 starting up");
+    	int dt = 1; //Debug toggle. 1 for on, 0 for off.
+        Debug.msg("Crumb, version 0.1 starting up",dt);
     }
 
 }
