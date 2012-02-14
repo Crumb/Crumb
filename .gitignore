@@ -5,3 +5,4 @@ src/main/.DS_Store
 .project
 bin/com/crumbdev/crumb/Crumb.class
 bin/com/thenetdev/Commons/Debug.class
+bin/com/thenetdev/Commons/Keyboard.class

@@ -28,7 +28,7 @@ public class Debug {
 	
 	/**
 	 * 
-	 * Like result() however this is formatted for mathematical operations.
+	 * Like msg() however this is formatted for mathematical operations.
 	 * 
 	 * @param dbl    Debug math function to be printed.
 	 * @param dt     Debug toggle for easy switching
